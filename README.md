@@ -1,3 +1,6 @@
-# HardWar2023-Junior Challange
-# "Hard Core" Group
-# Moeein Aali - Arian Afzalzadeh - Omid Heidari
+# HardWar2023
+Junior Challenge: work with Arduino
+## "Hard Core" Group
+  - Moeein Aali
+  - Arian Afzalzadeh
+  - Omid Heidari
